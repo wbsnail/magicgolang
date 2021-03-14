@@ -6,7 +6,7 @@ Some golang snippets.
 
 ### ### demo_urfave_cli
 
-Demonstrate usage of [urfave/cli - Github](https://github.com/urfave/cli).
+Demonstrate usage of [Github - urfave/cli](https://github.com/urfave/cli).
 
 Also include:
 
