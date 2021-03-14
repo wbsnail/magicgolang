@@ -1,0 +1,2 @@
+# magicgolang
+Some golang snippets.
